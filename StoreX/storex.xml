@@ -1,0 +1,7 @@
+<suite name="FirstTime" >
+    <test name="login">
+        <classes>
+            <class name="Login"/>
+        </classes>
+    </test>
+</suite>
